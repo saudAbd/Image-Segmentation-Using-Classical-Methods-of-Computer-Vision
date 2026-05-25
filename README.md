@@ -2,13 +2,16 @@
 This project proposes a classical computer vision solution for detecting and segmenting colored balls (orange, yellow, white) from indoor RGB images with various lighting conditions. It uses grayscale transformation, Gaussian filtering, adaptive thresholding, HSV color space analysis, and morphological operations. The final segmentation masks achieve a mean Dice Similarity Score (DSC) of **0.8839**.
 
 ### 📸 Original Image
-![Original](frame-95.png)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9fb1e17b-309b-4c1f-a682-0422aff24347" />
+
 
 ### 📸 Segment Image
-![Original](best.png)
+<img width="1497" height="403" alt="image" src="https://github.com/user-attachments/assets/7f84ea13-9986-4cf3-90d8-b536ba16d404" />
+
 
 ### 📸 Dice Similarity graph of 64 Image
-![Original](barGraph.png)
+<img width="1562" height="813" alt="image" src="https://github.com/user-attachments/assets/cfb3aa0e-52b1-4035-a11a-0217b70228c0" />
+
 ---
 
 ## Dataset Description
